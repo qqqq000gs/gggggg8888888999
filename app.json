@@ -1,7 +1,7 @@
 {
   "name": "Pyrogram String Session Generator",
-  "description": "Telegram bot to generate pyrogram string session",
-  "logo": "https://te.legra.ph/file/b109b2175683cba635252.jpg",
+  "description": "بوت تلي لاستخراج كود ترمكس",
+  "logo": "https://telegra.ph/file/d295b96e5241d077b36f9.jpg",
   "keywords": [
     "telegram",
     "bot",
