@@ -15,8 +15,8 @@ class Data:
         generate_single_button,
         [InlineKeyboardButton("👨‍💻 المطور 👨‍💻", url="https://t.me/N_B_1")],
         [
-            InlineKeyboardButton("❔ How to Use ❔", callback_data="help"),
-            InlineKeyboardButton("ℹ About ℹ", callback_data="about")
+            InlineKeyboardButton("❔ كيف استخدام البوت❔", callback_data="help"),
+            InlineKeyboardButton("ℹ شرح عن البوت ℹ", callback_data="about")
         ],
     ]
 
@@ -46,9 +46,9 @@ Hey {}
     ABOUT = """
 🔥 **شرح عن هذا البوت** 🔥
 
-**Telegram Bot to generate Pyrogram and Telethon string session.**
+**بوت استخراج. جلسه Pyrogram و Telethon كود.**
 
-**Framework** : [Pyrogram](https://docs.pyrogram.org)
+**اطار** : [Pyrogram](https://docs.pyrogram.org)
 
-**Language** : [Python](https://www.python.org)
+**اللغه** : [Python](https://www.python.org)
     """
