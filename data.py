@@ -2,18 +2,18 @@ from pyrogram.types import InlineKeyboardButton
 
 
 class Data:
-    generate_single_button = [InlineKeyboardButton("⚙ Start Generating Session ⚙", callback_data="generate")]
+    generate_single_button = [InlineKeyboardButton("⚙ بدء استخراج جلسه البوت ⚙", callback_data="generate")]
 
     home_buttons = [
         generate_single_button,
-        [InlineKeyboardButton(text="🏠 Return Home 🏠", callback_data="home")]
+        [InlineKeyboardButton(text="عوده الى القائمه الرئيسيه", callback_data="home")]
     ]
 
     generate_button = [generate_single_button]
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("👨‍💻 Owner 👨‍💻", url="https://t.me/SPA4KY")],
+        [InlineKeyboardButton("👨‍💻 المطور 👨‍💻", url="https://t.me/N_B_1")],
         [
             InlineKeyboardButton("❔ How to Use ❔", callback_data="help"),
             InlineKeyboardButton("ℹ About ℹ", callback_data="about")
@@ -23,27 +23,28 @@ class Data:
     START = """
 Hey {}
 
-Welcome to {}
+مرحبا في {}
 
-Use This Bot only If You trust this bot, Else Delete this chat and don't use.
+استخدم هذا الروبوت فقط إذا كنت تثق في هذا البوت ، اذا كنت لا تثق بهذا البوت فقم بحذف هذه الدردشة ولا تستخدمها.
 
-I am Session String Generator bot for Pyrogram & Telethon.
-Click on Below buttons to know more.
+أنا جلسة سلسلة مولد بوت ل Pyrogram & Telethon.
+
+انقر على الأزرار أدناه لمعرفة المزيد. 
     """
 
     HELP = """
-🔥 *Available Commands** 🔥
+🔥 *الاوامر الشغاله** 🔥
 
-`/about` - About this Bot.
-`/help` - Shows this message.
-`/start` - Starts the Bot.
-`/generate` - Generate Session.
-`/cancel` - Cancel the process.
-`/restart` - Restarts the process.
+`/about` - عن البوت بشكل تفصيلي.
+`/help` - لاضهار هذه الرساله.
+`/start` - للبدء.
+`/generate` - لاستخراج جلسه البوت.
+`/cancel` - لالغاء الجلسه.
+`/restart` - لاعاده تشغيل البوت.
 """
 
     ABOUT = """
-🔥 **About This Bot** 🔥
+🔥 **شرح عن هذا البوت** 🔥
 
 **Telegram Bot to generate Pyrogram and Telethon string session.**
 
