@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/SPARKY-00/stringsession",
+  "repository": "https://github.com/ANES0H/strinG",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
