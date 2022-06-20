@@ -20,25 +20,29 @@
 
 
 
-    <a href="https://telegram.me/N_B_1">
-        <img
-            src="https://img.shields.io/badge/owner-blue?&style=for-the-badge&logo=Telegram"
-            alt="Telegram"
+## مطور البوت... OWNER OF THE BOT
+
+## ا @N_B_1
+
+
+
+
+            
          
-            </a>
 
 
 
-    <a href="https://telegram.me/S8Y8S">
 
 
 
-        <img
 
 
 
-            src="https://img.shields.io/badge/قناه بالبوت-blue?&style=for-the-badge&logo=Telegram"
 
 
 
-            alt="Telegram"
+
+
+
+
+
