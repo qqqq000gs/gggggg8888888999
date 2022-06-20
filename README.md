@@ -21,19 +21,10 @@
 
 
     <a href="https://telegram.me/N_B_1">
-
-
-
         <img
-
-
-
-            src="https://img.shields.io/badge/مطور البوت -blue?&style=for-the-badge&logo=Telegram"
-
-
-
+            src="https://img.shields.io/badge/owner-blue?&style=for-the-badge&logo=Telegram"
             alt="Telegram"
-            
+         
             </a>
 
 
