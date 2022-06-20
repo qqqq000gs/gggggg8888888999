@@ -1,18 +1,18 @@
 # Pyrogram and Telethon String Session Bot.
 
-### Deploy to Heroku
+### Deploy to Heroku... تنضيب على هيروكو
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ANES0H/string)
 
-1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
-2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
-3. After deploying is complete, tap on "Manage App"
-4. Check the logs to see if your bot is ready!
+1. اضغط على الزر أعلاه واملأ "API_ID" و "API_HASH" و "BOT_TOKEN" (و "MUST_JOIN").
+2. ثم اضغط على "DEPOLY" أسفله. انتظر حتى يكتمل النشر (سيستغرق الأمر 2 دقيقة على الأكثر).
+3. بعد اكتمال التنصيب ، انقر فوق "إدارة التطبيق"
+4. تحقق من السجلات لمعرفة ما إذا كان الروبوت الخاص بك جاهزا!
 
 
-## Functions
+## مميزات البوت.....Functions
 
-- Generate Pyrogram user string session
-- Generate Pyrogram bot string session
-- Generate Pyrogram (Major) Version 1 and 2 string sessions
-- Generate Telethon string session
+- إنشاء جلسة عمل سلسلة مستخدم Pyrogram
+- إنشاء جلسة عمل سلسلة مستخدم TELETHON
+- إنشاء جلسات سلسلة Pyrogram (الرئيسية) الإصدار 1 و 2
+- إنشاء جلسة سلسلة Telethon
